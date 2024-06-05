@@ -1,6 +1,6 @@
 # À propos de VNB-IT
 
-VNB-IT est une société innovante offrant des services de maintenance informatique, de l’installation et de la configuration des systèmes et réseaux, de la sécurité, ainsi que du développement d’applications web et mobiles.
+VNB-IT est une société innovante offrant des services de maintenance informatique, d’installation, de configuration des systèmes et réseaux, de la sécurité, ainsi que du développement d’applications web et mobiles.
 
 ## Nos valeurs
 
